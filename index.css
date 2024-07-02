@@ -10,4 +10,5 @@ h1{
 h1:hover{
     cursor: pointer;
     font-size: 80px;
+    color: lightseagreen;
 }
